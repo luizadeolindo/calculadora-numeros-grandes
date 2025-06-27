@@ -1,0 +1,16 @@
+
+bin/
+obj/
+TestResults/
+coverage-report/
+
+
+*.coverage
+*.trx
+*.xml
+
+
+resultado.txt
+
+
+.vscode/
